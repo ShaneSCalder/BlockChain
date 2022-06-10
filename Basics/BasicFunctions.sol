@@ -46,4 +46,14 @@ contract BasicFunctions {
         }
         return 8888;
     }
+
+    //update a mapping 
+    function addCoin(string memory _name, string memory _symbol, uint _supply) external {
+        myCoins[msg.sender] = Coin(_name, _symbol, _supply);
+    }
+
+    // function get a coin from myCoin mapping
+    function getMyCoin() public view returns (Coin memory) {
+        return myCoins[msg.sender];
+    }
 }
