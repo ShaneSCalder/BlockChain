@@ -1,3 +1,3 @@
 # BlockChain
 
-- Building blocks of Block chain using multiple languages. GO, Solidity, etc. 
+- Building multiple languages. GO, Solidity, JavaScript, Rust, Python etc. 
