@@ -1,3 +1,4 @@
 # BlockChain
 
-- Building multiple languages. GO, Solidity, JavaScript, Rust, Python etc. 
+- Building with multiple languages. GO, Solidity, Rust, Python etc. 
+- Main Language javascript 
